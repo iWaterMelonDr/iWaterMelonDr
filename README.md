@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @iWaterMelonDr
+- 👋 Hi, I’m Rowan Duan.
 - 👀 I’m interested in React/Vue ...
 - 🌱 I’m currently learning Node
